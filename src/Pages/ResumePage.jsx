@@ -11,7 +11,7 @@ export default function ResumePage() {
                     type="application/pdf"
                     className="h-full w-full p-5"
                 >
-                    Your browser does not support PDFs. <a href="/sahil_resume.pdf">Download the PDF</a>.
+                    Your browser does not support PDFs. <a href="/sahil_resume.pdf" className='text-red-400'>Download the PDF</a>.
                 </object>
             </section>
         </main>
